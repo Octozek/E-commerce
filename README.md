@@ -60,7 +60,7 @@ Use Postman or a similar tool to interact with the provided API endpoints.
 Send HTTP requests to perform CRUD operations on products, categories, and tags.
 Refer to the API documentation for details on available endpoints and their usage.
 
-![Project Screenshot](img/Screenshot_2024-05-06_122409.png)
+![Project Screenshot](img/Screenshot_2024-05-06_122409)
 
 ## Demo
 [Demo Video](https://youtu.be/zByxfRuhTMo)
